@@ -1,1 +1,1 @@
-# cnn-image-projectHello World
+Hello World
