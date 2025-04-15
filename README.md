@@ -2,6 +2,13 @@
 
 # Project I | Deep Learning: Image Classification with CNN
 
+## Bootstrap
+
+1. Download the dataset by running the 1st cell.
+2. Install python-dotenv module.
+3. Create .env file.
+4. Link your newly downloaded folder path to a variable called : DATASET_URI
+
 ## Task Description
 
 We will build a Convolutional Neural Network (CNN) model to classify images from a given dataset into predefined categories/classes.
