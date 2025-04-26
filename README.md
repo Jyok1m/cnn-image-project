@@ -2,7 +2,16 @@
 
 # 🧠 CNN Animal Classifier
 
-This project is part of the **IronHack Machine Learning Specialization** and focuses on building Convolutional Neural Network (CNN) models to classify animal images from the [Animals10 Kaggle dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10). The final solution incorporates both **custom CNN architectures** and **transfer learning**, with model evaluation based on accuracy, F1-score, and confusion matrices.
+This project is part of the **IronHack Machine Learning Specialization** and focuses on building Convolutional Neural Network (CNN) models to classify animal images from the [Animals10 Kaggle dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10/data). The final solution incorporates both **custom CNN architectures** and **transfer learning**, with model evaluation based on accuracy, F1-score, and confusion matrices.
+
+---
+
+## Links
+
+1. Report: [Google Docs](https://docs.google.com/document/d/e/2PACX-1vRyG6hLWeQFHCsGtdD5ALNpHlk9czdvx-vsYpv2bcuW5sEQjvXo90bct0s8ae_AN5Mwb25cPc6jwO4k/pub)
+2. Presentation: [Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTXx0qL7Hc0EeSALLTxxgBA_EsANhWv7t35xy2jICJ0Lpt-cjt8Z_q9wComvqi1JaB9V31-kxguMAYZ/pub?start=false&loop=false&delayms=3000)
+3. GitHub: [GitHub Repo](https://github.com/Jyok1m/cnn-image-project)
+4. Dataset: [Animals10 - Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10/data)
 
 ---
 
